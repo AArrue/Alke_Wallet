@@ -1,8 +1,6 @@
-# 💳 Alke-Wallet
+## 💳 Alke-Wallet
 
-Alke-Wallet es una billetera digital desarrollada en JavaScript que permite a los usuarios registrarse, iniciar sesión, depositar dinero, enviar fondos a otros usuarios y revisar el historial de transacciones.
-
-El proyecto simula el funcionamiento básico de una wallet digital utilizando almacenamiento local del navegador.
+###📌 Creación de una página web básica para comprender los fundamentos del desarrollo web.  
 
 ---
 
@@ -18,13 +16,11 @@ El proyecto simula el funcionamiento básico de una wallet digital utilizando al
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías:  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-- **HTML5** – Estructura de la aplicación
-- **CSS3** – Estilos y diseño visual
-- **JavaScript (Vanilla JS)** – Lógica y funcionalidad
-- **Bootstrap 5** – Diseño responsive
-- **LocalStorage** – Persistencia de datos
 
 ---
 
