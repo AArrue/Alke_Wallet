@@ -1,6 +1,6 @@
 ## 💳 Alke-Wallet
 
-###📌 Creación de una página web básica para comprender los fundamentos del desarrollo web.  
+##📌 Creación de una página web básica para comprender los fundamentos del desarrollo web.  
 
 ---
 
